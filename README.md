@@ -7,5 +7,5 @@ My custom ranger configuration
 Install ``ranger`` first
 
 ```bash
-$ git clone https://github.com/Yttehs-HDX/Ranger-config.git ~/.config/ranger
+git clone https://github.com/Yttehs-HDX/Ranger-config.git ~/.config/ranger
 ```
